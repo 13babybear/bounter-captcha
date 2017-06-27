@@ -16,6 +16,7 @@ import com.aliyun.mns.model.RawTopicMessage;
 public class SMSUtil {
 	
 	//注入MNS配置类
+	@Autowired
 	private MNSProperties mnsProps;
 	
 	private static SMSUtil smsUtil;
