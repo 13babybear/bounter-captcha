@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 /**
- * 阿里云短信MNS
- * @author Administrator
+ * 阿里云短信MNS配置实体
+ * @author simon
  *
  */
 @Component
